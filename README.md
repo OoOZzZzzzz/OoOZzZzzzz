@@ -15,6 +15,6 @@
 </picture>
 
 <!-- 提交习惯统计条：每天自动统计提交时段，显示在下方 -->
-[![commit habit](https://gist.githubusercontent.com/OoOZzZzzzz/{{GIST_ID}}/raw/commit-habit.md)](https://github.com/OoOZzZzzzz)
+[![commit habit](https://gist.githubusercontent.com/OoOZzZzzzz/9c2c96dcab4e07334d171def619fa7a6/raw/commit-habit.md)](https://github.com/OoOZzZzzzz)
 
 </div>
