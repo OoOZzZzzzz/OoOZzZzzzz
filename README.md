@@ -14,7 +14,11 @@
   <img alt="github contribution 3d block" src="https://raw.githubusercontent.com/OoOZzZzzzz/OoOZzZzzzz/output/profile-3d-contrib-gitblock.svg">
 </picture>
 
-<!-- 提交习惯统计条：每天自动统计提交时段，显示在下方 -->
-[![commit habit](https://gist.githubusercontent.com/OoOZzZzzzz/9c2c96dcab4e07334d171def619fa7a6/raw/commit-habit.md)](https://github.com/OoOZzZzzzz)
+<!-- 提交连续天数统计条（第三方服务，零维护） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OoOZzZzzzz&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OoOZzZzzzz&theme=default&hide_border=true">
+  <img alt="github contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OoOZzZzzzz&theme=tokyonight&hide_border=true">
+</picture>
 
 </div>
