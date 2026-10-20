@@ -14,4 +14,7 @@
   <img alt="github contribution 3d block" src="https://raw.githubusercontent.com/OoOZzZzzzz/OoOZzZzzzz/output/profile-3d-contrib-gitblock.svg">
 </picture>
 
+<!-- 提交习惯统计条：每天自动统计提交时段，显示在下方 -->
+[![commit habit](https://gist.githubusercontent.com/OoOZzZzzzz/{{GIST_ID}}/raw/commit-habit.md)](https://github.com/OoOZzZzzzz)
+
 </div>
